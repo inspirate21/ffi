@@ -1,0 +1,19 @@
+/* CSS Document */
+/*body{background:#dfe6e9; font-size:12px; font-family: "Trebuchet MS", Tahoma, Arial, Verdana; color:#545C5F; }
+
+body,h1,h2,h3,h4,h5,h6,form,p,div,input,span,dt,dd,select,li,ul{margin:0; padding:0;}
+li,ul{list-style:none;}
+a{text-decoration:none; color:#FFFFFF; outline:none;}
+a:hover{ color:#CCCCCC; outline:none;}*/
+
+.site_info{padding:10px 0;}
+.site_info_left{background:url(../images/site_info_left.gif) top left no-repeat; height:43px;}
+.site_info_right{background:url(../images/site_info_right.gif) top right no-repeat; height:43px;}
+
+.site_info_center{background:url(../images/site_info_center.gif) top left repeat-x; height:43px;}
+.site_info_center .hdr{float:left; color:#828282; font-size:14px; padding:12px 0;}
+.site_info_center .tab_link{float:right;}
+.site_info_center .tab_link li{float:left; color:#828282; font-size:12px; padding:12px 3px 0 0; list-style:none;}
+
+.site_info_center_details{background:#ffffff; border:#cccccc solid 1px; border-top:none; padding:10px; color:#777777;}
+.site_info_center_details td{padding:10px 0; color:#777777;}
