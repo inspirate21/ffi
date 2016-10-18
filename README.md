@@ -3,7 +3,7 @@ Manage meeting reports, financial reports and schedule of acivities for FFI (For
 
 # How To Use :
 
-1. Just download the entire contents of the folder.
+1. Download the entire contents of the folder.
 2. Copy to your Php Project or your htdocs.
 3. Restore the database to MySQL at folder "database/ffi.sql"
 4. Check how to connect it at "/config.php"
